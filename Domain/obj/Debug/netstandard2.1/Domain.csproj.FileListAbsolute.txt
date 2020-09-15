@@ -1,0 +1,9 @@
+/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Domain/bin/Debug/netstandard2.1/Domain.deps.json
+/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Domain/bin/Debug/netstandard2.1/Domain.dll
+/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Domain/bin/Debug/netstandard2.1/Domain.pdb
+/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Domain/obj/Debug/netstandard2.1/Domain.csprojAssemblyReference.cache
+/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Domain/obj/Debug/netstandard2.1/Domain.AssemblyInfoInputs.cache
+/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Domain/obj/Debug/netstandard2.1/Domain.AssemblyInfo.cs
+/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Domain/obj/Debug/netstandard2.1/Domain.csproj.CoreCompileInputs.cache
+/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Domain/obj/Debug/netstandard2.1/Domain.dll
+/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Domain/obj/Debug/netstandard2.1/Domain.pdb

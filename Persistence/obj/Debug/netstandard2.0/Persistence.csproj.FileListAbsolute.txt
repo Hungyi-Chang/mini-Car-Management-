@@ -1,0 +1,12 @@
+/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Persistence/bin/Debug/netstandard2.0/Persistence.deps.json
+/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Persistence/bin/Debug/netstandard2.0/Persistence.dll
+/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Persistence/bin/Debug/netstandard2.0/Persistence.pdb
+/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Persistence/bin/Debug/netstandard2.0/Domain.dll
+/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Persistence/bin/Debug/netstandard2.0/Domain.pdb
+/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Persistence/obj/Debug/netstandard2.0/Persistence.csprojAssemblyReference.cache
+/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfoInputs.cache
+/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Persistence/obj/Debug/netstandard2.0/Persistence.AssemblyInfo.cs
+/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CoreCompileInputs.cache
+/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Persistence/obj/Debug/netstandard2.0/Persistence.csproj.CopyComplete
+/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Persistence/obj/Debug/netstandard2.0/Persistence.dll
+/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Persistence/obj/Debug/netstandard2.0/Persistence.pdb

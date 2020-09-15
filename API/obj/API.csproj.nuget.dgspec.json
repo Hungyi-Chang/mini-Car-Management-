@@ -1,0 +1,254 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/API/API.csproj": {}
+  },
+  "projects": {
+    "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/API/API.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/API/API.csproj",
+        "projectName": "API",
+        "projectPath": "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/API/API.csproj",
+        "packagesPath": "/Users/markchang/.nuget/packages/",
+        "outputPath": "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/API/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/markchang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netcoreapp3.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netcoreapp3.1": {
+            "projectReferences": {
+              "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Application/Application.csproj": {
+                "projectPath": "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Application/Application.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Application/Application.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Application/Application.csproj",
+        "projectName": "Application",
+        "projectPath": "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Application/Application.csproj",
+        "packagesPath": "/Users/markchang/.nuget/packages/",
+        "outputPath": "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Application/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/markchang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Domain/Domain.csproj": {
+                "projectPath": "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Domain/Domain.csproj"
+              },
+              "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Persistence/Persistence.csproj": {
+                "projectPath": "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Persistence/Persistence.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Domain/Domain.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Domain/Domain.csproj",
+        "projectName": "Domain",
+        "projectPath": "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Domain/Domain.csproj",
+        "packagesPath": "/Users/markchang/.nuget/packages/",
+        "outputPath": "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Domain/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/markchang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Persistence/Persistence.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Persistence/Persistence.csproj",
+        "projectName": "Persistence",
+        "projectPath": "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Persistence/Persistence.csproj",
+        "packagesPath": "/Users/markchang/.nuget/packages/",
+        "outputPath": "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Persistence/obj/",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "/usr/local/share/dotnet/sdk/NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "/Users/markchang/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "projectReferences": {
+              "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Domain/Domain.csproj": {
+                "projectPath": "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/Domain/Domain.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[3.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/3.1.402/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
