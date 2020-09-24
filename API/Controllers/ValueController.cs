@@ -21,19 +21,19 @@ namespace DatingApp.API.Controllers
 
         // GET api/values
         [HttpGet]
-        public async Task <ActionResult<IEnumerable<Value>>> Get()
-        {
-            var values = await _context.Values.ToListAsync();
-            return Ok(values);
-        }
+        // public async Task <ActionResult<IEnumerable<Value>>> Get()
+        // {
+        //     var values = await _context.Values.ToListAsync();
+        //     return Ok(values);
+        // }
 
         // GET api/values/5
         [HttpGet("{id}")]
-        public async Task<ActionResult<string>> Get(int id)
-        {
-            var value = await _context.Values.FindAsync(id);
-            return Ok(value);
-        }
+        // public async Task<ActionResult<string>> Get(int id)
+        // {
+        //     var value = await _context.Values.FindAsync(id);
+        //     return Ok(value);
+        // }
 
         // POST api/values
         [HttpPost]

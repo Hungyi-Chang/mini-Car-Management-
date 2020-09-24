@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "Kn3W1N4kQMNoelGfOx88p/LoZ04fLpjyE7U1xhns+Ou1GdSqPptFzjSnQDqzytxh8smIX6YUbVUxaThL6Ebq9g==",
+  "dgSpecHash": "0ERnaArmRT7yrwZUlHahmxbpZ590pju+hXnpBFRShk5zPhkVoNc653oEWzqOPuqsvgKKtDMpWu6z9jFDrMT9GQ==",
   "success": true,
   "projectFilePath": "/Users/markchang/Documents/GitHub/Mini-Car-Management-App/API/API.csproj",
   "expectedPackageFiles": [
+    "/Users/markchang/.nuget/packages/mediatr/8.1.0/mediatr.8.1.0.nupkg.sha512",
+    "/Users/markchang/.nuget/packages/mediatr.extensions.microsoft.dependencyinjection/8.1.0/mediatr.extensions.microsoft.dependencyinjection.8.1.0.nupkg.sha512",
     "/Users/markchang/.nuget/packages/microsoft.csharp/4.6.0/microsoft.csharp.4.6.0.nupkg.sha512",
     "/Users/markchang/.nuget/packages/microsoft.data.sqlite.core/3.0.0/microsoft.data.sqlite.core.3.0.0.nupkg.sha512",
     "/Users/markchang/.nuget/packages/microsoft.dotnet.platformabstractions/3.0.0/microsoft.dotnet.platformabstractions.3.0.0.nupkg.sha512",
